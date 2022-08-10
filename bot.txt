@@ -1,0 +1,3 @@
+"ip":"rockstarsmp1.aternos.me 
+"port":46932",
+"name":"papu"              
